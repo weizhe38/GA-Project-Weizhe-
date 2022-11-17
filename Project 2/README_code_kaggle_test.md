@@ -8,8 +8,9 @@ Jupyter notebook for test set sale price prediction, for Kaggle challenge
 
 **Dataset name: train_final8**
 
-Size: 2025 observations, 15 variables
-Description: Final dataset that contains features for model training.
+#### Size: 2025 observations, 15 variables
+
+#### Description: Final dataset that contains features for model training.
 
 |Feature|Type|DataType|Dataset|Description|
 |---|---|---|---|---|
@@ -32,8 +33,9 @@ Description: Final dataset that contains features for model training.
 
 **Dataset name: test**
 
-Size: 2930 observations, 82 variables
-Description: Data set contains information from the Ames Assessor’s Office used in computing assessed values for individual residential properties sold in Ames, IA from 2006 to 2010.
+#### Size: 2930 observations, 82 variables
+
+#### Description: Data set contains information from the Ames Assessor’s Office used in computing assessed values for individual residential properties sold in Ames, IA from 2006 to 2010.
 
 | Feature | Type | Dataset | Description |
 |:--|:-:|:-:|:--|
